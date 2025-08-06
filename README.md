@@ -15,5 +15,5 @@ I'm a computer science student currently studying at [Hochschule Karlsruhe](http
 ![Shell](https://img.shields.io/badge/-Shell_Automation-333333?style=flat&logo=zsh)
 
 **Reach me at**: [schasch@disroot.org](mailto:schasch@disroot.org) <br>
-**PGP Fingerprint**: `9750 8FF9 6B3F D840 EDE0 BD92 B565 3B53 F991 13C7` <br><br>
+**PGP Fingerprint**: `759F C587 BFEC 30F7 0DD8 DB3C 158F B36D 92E9 5191` <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=JakobKohler&color=blue)

@@ -1,5 +1,3 @@
-I'm a computer science student currently studying at [Hochschule Karlsruhe](https://h-ka.de). 
-
 ## Technologies I regularly use
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Kubernets](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
